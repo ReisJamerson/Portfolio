@@ -1,0 +1,68 @@
+body{
+    font: 30px Helvetica, sans-serif; 
+}
+
+.navbar{
+    background-color: #dcdcdc9f;
+}
+
+.quem-sou{
+    background-color: #70809079;
+    color: #2F4F4F;
+}
+
+.margin1{
+    font-size: 75px;
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+
+.margin01{
+    font: 40px Times, Times New Roman, serif;
+    padding-top: 45px;
+    padding-bottom: 160px;
+    color: rgba(0, 0, 0, 0.76);
+}
+
+.oque-faco{
+    background-color: #FFF5EE;
+    color: #2F4F4F;
+}
+
+.margin2{
+    font-size: 75px;
+    padding-top: 150px;
+    padding-bottom: 10px;
+}
+
+.margin02{
+    font: 40px Times, Times New Roman, serif;   
+    color: rgba(0, 0, 0, 0.76);
+
+}
+
+#explicativo{
+    padding-top: 10px;
+    font: 25px Times, Times New Roman, serif;
+    color: black;
+}
+
+.tecnologias{
+    background-color: #faf0e6f6;
+    color: 	#2F4F4F;
+}
+
+.margin3{
+    font-size: 75px;
+    margin-top: 200px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+footer{
+    font-size: 15px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+}
+
